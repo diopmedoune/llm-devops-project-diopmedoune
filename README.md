@@ -133,9 +133,8 @@ kubectl port-forward -n llm service/webui-service 8080:8080 --address 0.0.0.0
 
 ---
 
-## 📄 Évaluation et Conformité
+## 📄 Résumé
 
-Ce dépôt répond à 100% des exigences de la grille d'évaluation :
 - Manifests Kubernetes complets avec `Requests/Limits` et `Startup/Readiness/Liveness Probes`.
 - Persistance complète des données via `PersistentVolumeClaims`.
 - Démonstration opérationnelle de 3 modèles de langage distincts.
