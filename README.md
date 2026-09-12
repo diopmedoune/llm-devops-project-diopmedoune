@@ -1,9 +1,9 @@
 # DevOps Project: Deploying an Open-Source Large Language Model (LLM)
 
-**Classe :** DIC2-GIT
-**Module :** Cloud & DevOps  
-**Auteur :** Médoune DIOP  
-**Professuer :** M. Ibrahima MBENGUE
+**Classe :** DIC2-GIT<br>
+**Module :** Cloud & DevOps<br>
+**Auteur :** Médoune DIOP<br>
+**Professeur :** M. Ibrahima MBENGUE
 
 ---
 
