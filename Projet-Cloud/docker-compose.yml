@@ -1,0 +1,11 @@
+services:
+  floci:
+    image: floci/floci:latest
+    container_name: floci
+    ports:
+      - "4566:4566"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - FLOCI_SERVICES_UI_ENABLED=true
+      - FLOCI_SERVICES_UI_PORT=4500
